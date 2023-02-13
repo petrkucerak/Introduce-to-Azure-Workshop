@@ -252,15 +252,16 @@ Studujete na vysoké škole. Pravidelně chodíte nakupovat do několika obchodn
 
 ---
 
-![bg right:65% cover](../assets/receiept.png)
+![bg right:65% cover](../assets/CRM.png)
 
 Scénář 3
-**Skener účtenek**
+**CRM system**
 
 <!-- 
 
-# Case 2 - skener účtenek
+# Case 3 - CRM system
 
-Studujete na vysoké škole. Pravidelně chodíte nakupovat do několika obchodních domů. Odnášite si papírové účtenky. Společně se spolubydlícími ze studentského bytu používáte aplikaci, která vám rozdělí výdaje. Nebaví vás ale neustále přepisovat, obash účtenky. Umíte programovat, tak si vyvynete vlastní webovou aplikaci, která funguje tak, že naskenuje obrázek, odešle ho do služby od Azure na rekonigici textu z účetnky. Služba vrátí strojový text popisující obash. Webová apliakce ho následně překonvertuje do formátu čitelného pro aplikci na záznam dluhů a apliakci spustí rovnou s předvyplněnými daty.
+Jste CTO firmy, ktera se chce transformovat do noveho CRM systemu. Stojíte před volbou jakou nabídku využít. Jedna firma vám nabízí komplexní produkt, který obashuje i hostování u nich. Druhá vám chte prodat licenci k produkut, který si musíte nasintalovat a provozovat samy. Třetí umožňuje obě možnosti.
+Který proukt byste zvolili v jaké situaci? Jedná se o veliké zobecnění, ale zjednodušte.
 
 -->
