@@ -225,7 +225,7 @@ Vezměte si tužku a papír. Projedeme si několik scénářů a zajímá uděle
 ![bg right:65% cover](../assets/DIY_sensor.png)
 
 Scénář 1
-**DYI senzor**
+**DIY senzor**
 
 <!-- 
 
